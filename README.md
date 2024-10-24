@@ -74,6 +74,7 @@ Proyek ini merupakan contoh implementasi dari konsep **inheritance** dan **polym
 
 7. **Persegi**  
    Menghitung luas dan keliling persegi berdasarkan panjang sisi.
+   ### Code
    ```java
    public class Persegi extends BangunDatar {
     private int sisi;
@@ -92,8 +93,9 @@ Proyek ini merupakan contoh implementasi dari konsep **inheritance** dan **polym
    }
    ```
 
-8. **Main**
+9. **Main**
    Program utama untuk menjalankan programnya.
+   ### Output
    ```yaml
    Menghitung Luas dan Keliling Lingkaran:
    Luas Lingkaran: 1256.0
